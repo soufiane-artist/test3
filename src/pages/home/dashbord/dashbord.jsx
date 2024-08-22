@@ -55,7 +55,7 @@ function Dashbord({}) {
   const [Charts,seTCharts] = useState(false)
   // chart
   const [BlueRibbon,setBlueRibbon] = useState(false) // true checkbox
-  const [barSeriesChart,setbarSeries] = useState(false) // truee
+  const [barSeriesChart,setbarSeries] = useState(false) // trueei
   const [Candel,setCandel] = useState(true) // true
   const [areaSeriesChart,setareaSeries] = useState(false) // true checkbox
   const [baselineSeriesCH,setbaselineSeriesCH] = useState(false) // true
